@@ -1,0 +1,5 @@
+Métodos, funções, classes, varaiveis..., devem estar aberta a extenções,
+mas fechadas a modificações
+
+
+stratic -> familia de algoritimos
