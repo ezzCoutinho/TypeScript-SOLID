@@ -1,0 +1,7 @@
+Classes de nível baixo tem que depender de classes de nível alto, não
+ao contrario
+
+
+Classes nível baixo -> Classes concretas (executadora.)
+
+Classes nível alto -> interfaces, types, absctract class.
